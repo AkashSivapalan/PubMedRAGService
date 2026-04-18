@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+requests
+langchain
+langchain-openai
+langchain-community
+langchain-text-splitters
+chromadb
+rank-bm25
+cohere
+redis

@@ -1,0 +1,45 @@
+{
+  "aggregate": {
+    "faithfulness": 0.887,
+    "answer_relevancy": 0.934,
+    "context_precision": 0.495,
+    "context_recall": 0.6
+  },
+  "per_question": [
+    {
+      "user_input": "What are the first-line pharmacological treatments for heart failure with reduced ejection fraction?",
+      "faithfulness": 1.0,
+      "answer_relevancy": 0.9470210499565243,
+      "context_precision": 0.8041666666465626,
+      "context_recall": 1.0
+    },
+    {
+      "user_input": "What is the role of BNP and NT-proBNP in heart failure diagnosis?",
+      "faithfulness": 1.0,
+      "answer_relevancy": 0.9361114420564879,
+      "context_precision": 0.7555555555303703,
+      "context_recall": 1.0
+    },
+    {
+      "user_input": "When is cardiac resynchronization therapy indicated in heart failure patients?",
+      "faithfulness": 0.8181818181818182,
+      "answer_relevancy": 0.8388141906833256,
+      "context_precision": 0.49999999995,
+      "context_recall": 0.0
+    },
+    {
+      "user_input": "What are the differences between HFpEF and HFrEF in terms of treatment?",
+      "faithfulness": 0.875,
+      "answer_relevancy": 0.9480154032111954,
+      "context_precision": 0.4166666666458333,
+      "context_recall": 1.0
+    },
+    {
+      "user_input": "What factors predict 30-day hospital readmission in heart failure patients?",
+      "faithfulness": 0.7407407407407407,
+      "answer_relevancy": 1.0,
+      "context_precision": 0.0,
+      "context_recall": 0.0
+    }
+  ]
+}

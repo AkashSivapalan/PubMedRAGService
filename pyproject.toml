@@ -1,0 +1,29 @@
+[project]
+name = "backend"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "booktype>=1.5",
+    "chromadb>=1.5.5",
+    "cohere>=5.21.1",
+    "datasets>=4.8.4",
+    "fastapi>=0.134.0",
+    "inngest>=0.5.16",
+    "langchain-chroma>=1.1.0",
+    "langchain-community>=0.4.1",
+    "langchain-core>=1.2.25",
+    "langchain-openai>=1.1.12",
+    "llama-index-core>=0.14.15",
+    "llama-index-readers-file>=0.5.6",
+    "openai>=2.24.0",
+    "pandas-stubs~=2.3.3",
+    "pydantic>=2.12.5",
+    "python-dotenv>=1.2.1",
+    "qdrant-client>=1.17.0",
+    "ragas>=0.4.3",
+    "rank-bm25>=0.2.2",
+    "redis>=7.4.0",
+    "uvicorn>=0.41.0",
+]
