@@ -1,0 +1,10 @@
+.venv
+__pycache__
+*.py[oc]
+.git
+.gitignore
+.env
+chroma_db
+.idea
+eval_results.json
+README.md
