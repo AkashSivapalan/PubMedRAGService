@@ -9,4 +9,4 @@ langchain-text-splitters
 chromadb
 rank-bm25
 cohere
-redis
+redis>=4.0.0
